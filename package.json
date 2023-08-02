@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "seller:dev": "vitepress dev seller-docs",
+    "seller:build": "vitepress build seller-docs",
+    "seller:preview": "vitepress preview seller-docs"
+  },
+  "dependencies": {
+    "@hempworks/pilgrim": "^0.1.16"
+  },
+  "devDependencies": {
+    "vue": "^3.3.4"
+  }
+}
